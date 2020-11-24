@@ -1,0 +1,7 @@
+Counting p tag
+https://wordpress.stackexchange.com/questions/237301/trying-to-count-the-total-number-of-paragraphs-inside-a-blog-article/237316
+explode trim
+
+create setting page and save
+https://codex.wordpress.org/Creating_Options_Pages
+
